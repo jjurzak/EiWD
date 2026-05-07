@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Caveman
+.agents/
+skills-lock.json
+
 # Distribution / packaging
 .Python
 build/
