@@ -1,0 +1,31 @@
+patient_id,age,classical_geriatric,classical_conclusions,rules_activated,fuzzy_risk
+P01,24,0,Diabetes(0.85),R5_diabetes,0.0
+P02,73,1,Geriatric patient(0.95); Geriatric high cardiovascular risk(0.85); Hypertension(0.90),"R1_geriatric_basic, R2_geriatric_hypertension, R4_hypertension",70.78
+P03,65,0,—,—,33.92
+P04,49,0,Hypertension(0.90); Diabetes(0.85),"R4_hypertension, R5_diabetes",15.58
+P05,49,0,Diabetes(0.85),R5_diabetes,15.58
+P06,79,1,Geriatric patient(0.95); Geriatric high cardiovascular risk(0.85); Hypertension(0.90),"R1_geriatric_basic, R2_geriatric_hypertension, R4_hypertension",70.78
+P07,24,0,Hypertension(0.90); Diabetes(0.85),"R4_hypertension, R5_diabetes",0.0
+P08,68,0,Hypertension(0.90),R4_hypertension,63.17
+P09,32,0,Diabetes(0.85),R5_diabetes,0.0
+P10,24,0,—,—,0.0
+P11,55,0,Diabetes(0.85),R5_diabetes,15.58
+P12,88,1,Geriatric patient(0.95); Geriatric metabolic risk(0.80); Diabetes(0.85),"R1_geriatric_basic, R3_geriatric_metabolic, R5_diabetes",70.78
+P13,70,1,Geriatric patient(0.95); Geriatric high cardiovascular risk(0.85); Geriatric metabolic risk(0.80); Diabetes(0.85),"R1_geriatric_basic, R2_geriatric_hypertension, R3_geriatric_metabolic, R5_diabetes",70.78
+P14,72,1,Geriatric patient(0.95); Geriatric metabolic risk(0.80); Diabetes(0.85),"R1_geriatric_basic, R3_geriatric_metabolic, R5_diabetes",70.78
+P15,69,0,—,—,64.13
+P16,74,1,Geriatric patient(0.95); Geriatric metabolic risk(0.80); Diabetes(0.85),"R1_geriatric_basic, R3_geriatric_metabolic, R5_diabetes",70.78
+P17,54,0,—,—,15.58
+P18,27,0,Diabetes(0.85),R5_diabetes,0.0
+P19,78,1,Geriatric patient(0.95); Geriatric metabolic risk(0.80); Diabetes(0.85),"R1_geriatric_basic, R3_geriatric_metabolic, R5_diabetes",70.78
+P20,50,0,—,—,15.58
+P21,54,0,Hypertension(0.90),R4_hypertension,15.58
+P22,44,0,Diabetes(0.85),R5_diabetes,15.96
+P23,31,0,—,—,0.0
+P24,84,1,Geriatric patient(0.95),R1_geriatric_basic,50.0
+P25,74,1,Geriatric patient(0.95); Geriatric high cardiovascular risk(0.85); Hypertension(0.90),"R1_geriatric_basic, R2_geriatric_hypertension, R4_hypertension",70.78
+P26,64,0,—,—,50.0
+P27,46,0,Hypertension(0.90),R4_hypertension,15.58
+P28,77,1,Geriatric patient(0.95); Geriatric metabolic risk(0.80); Diabetes(0.85),"R1_geriatric_basic, R3_geriatric_metabolic, R5_diabetes",70.78
+P29,57,0,Diabetes(0.85),R5_diabetes,27.1
+P30,49,0,—,—,15.58

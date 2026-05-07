@@ -10,6 +10,13 @@ __pycache__/
 .agents/
 skills-lock.json
 
+# common
+common/
+
+#cursor
+.cursor/
+
+
 # Distribution / packaging
 .Python
 build/
